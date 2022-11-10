@@ -30,3 +30,5 @@ The signals were split into two independent sets:
 - test
  
 The annotations for each set are available in the labels_<train or test>.json file which gives the filename -> threat or non-threat label.
+
+The main work is in **Radar Threat Detection with Sklearn - MVA.ipynb** notebook. 
